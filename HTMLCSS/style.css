@@ -1,0 +1,83 @@
+body{
+    background-color: peachpuff;
+    background-image:url("cat.gif.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+   opacity: o.5;
+    
+}
+
+h1{ background-color: lightpink;
+    color: lightgoldenrodyellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:1px;
+    margin:50px 50px;
+
+}
+
+    
+h3{
+    color: orange;
+    font-family:cursive;
+    background-color: blanchedalmond;
+    border:1px;
+    margin:50px 50px;
+}
+
+
+
+h4{
+    color: lightsalmon;
+    background-color: blanchedalmond;
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration:underline;
+    border:1px;
+    margin:50px 50px;
+}   
+
+ul{
+    
+    font-family: cursive;
+    color: lightpink;
+    border:1px;
+    margin:50px 50px;
+    
+}
+
+p1{
+    color:orange;
+
+    font-family: cursive;
+    border:1px;
+    margin:50px 50px;
+}
+/* unvisited link */
+a:link {
+    color:lightpink;
+    font-family: cursive;
+    border:1px;
+    margin:50px 50px;
+  }
+  
+  /* visited link */
+  a:visited {
+    color:palevioletred;
+    font-family: cursive;
+    border:1px;
+    margin:50px 50px;
+  }
+
+
+
+/*paragarph*/
+
+p4{
+
+    color: orange;
+    
+    font-family:cursive;
+    border:1px;
+    margin:50px 50px;
+    
+    }
